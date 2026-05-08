@@ -37,8 +37,8 @@ Me chamo Murilo Agostinho, tenho 19 anos e sou natural de Rio Novo. Atualmente, 
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="C++" 
+    title="C++"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"

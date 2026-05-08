@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Murilo Agostinho
 
-**`Desenvolvedor Web`**
+**`Desenvolvedor Web | Traduzindo Café em Código`**
 
-Me chamo Murilo Agostinho, tenho 19 anos e sou natural de Rio Novo. Atualmente, estou cursando Ciências Exatas na UFJF.
+Me chamo Murilo Agostinho, tenho 19 anos e sou natural de Rio Novo. Atualmente, estou cursando Ciências Exatas na UFJF. Construindo soluções web enquanto aprimoro minha lógica de programação.
 
 
 ---

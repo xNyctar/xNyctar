@@ -1,5 +1,7 @@
 # 👩🏻‍💻 Murilo Agostinho
 
+![Wave Top](https://capsule-render.vercel.app/api?type=waving&color=1a237e&height=200&section=header&text=Murilo20%Agostinho&fontSize=70&animation=fadeIn&fontAlignY=35)
+
 **`Desenvolvedor Web | Traduzindo Café em Código`**
 
 Me chamo Murilo Agostinho, tenho 19 anos e sou natural de Rio Novo. Atualmente, estou cursando Ciências Exatas na UFJF. Construindo soluções web enquanto aprimoro minha lógica de programação.
@@ -61,3 +63,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xNyctar/xNyctar/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xNyctar/xNyctar/output/snake.svg">
 </picture>
+
+![Wave Bottom](https://capsule-render.vercel.app/api?type=waving&color=1a237e&height=200&section=footer)

@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=007acc&height=100&section=header&reversal=false&text=">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=007acc&height=100&section=header&text=">
-</picture>
-
 # 👩🏻‍💻 Murilo Agostinho
 **`Desenvolvedor Web | Traduzindo Café em Código`**
 
@@ -65,5 +60,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xNyctar/xNyctar/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xNyctar/xNyctar/output/snake.svg">
 </picture>
-
-<img src="https://itinerant.dev/api/waves?demo=true&color=007acc&height=100&width=1200&flip=false&flopped=false" width="100%">

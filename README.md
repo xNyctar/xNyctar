@@ -1,50 +1,57 @@
-# 👨‍💻 Murilo Agostinho
-**`Desenvolvedor Web Full-Stack & UI/UX | Traduzindo Café em Código ☕`**
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=200&section=header&text=Murilo%20Agostinho&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20Full-Stack%20%E2%80%A2%20UI/UX%20Designer&descAlignY=58&descSize=16" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Full-Stack+%F0%9F%92%BB;Assessor+de+UI%2FUX+na+Code+Empresa+Jr.+%F0%9F%8E%A8;Estudante+de+Ci%C3%AAncias+Exatas+na+UFJF+%F0%9F%8E%93;Traduzindo+Caf%C3%A9+em+C%C3%B3digo+%E2%98%95" alt="Typing SVG" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Code_Empresa_Jr.-Assessor_de_UI%2FUX-4c1d95?style=for-the-badge&logoColor=eab308" alt="Code Empresa Jr" />
+  <img src="https://img.shields.io/badge/UFJF-Ci%C3%AAncias_Exatas-991b1b?style=for-the-badge" alt="UFJF" />
+</div>
+
+---
+
+### 👨‍💻 Sobre Mim & Trajetória
 
 Olá! Me chamo Murilo Agostinho, tenho 19 anos, sou natural de Rio Novo - MG e atualmente resido em Juiz de Fora. Sou estudante na **Universidade Federal de Juiz de Fora (UFJF)** e sempre procuro constribuir com soluções web, unindo lógica de programação robusta com interfaces centradas no usuário.
 
-### 💼 Sobre mim e Experiência
-
-- 🎨 Atualmente atuo como **Assessor de Interface Visual e Experiência de Usuário (UI/UX)** na **Code Empresa Jr.**
-- 💻 Foco no desenvolvimento Full-Stack utilizando o ecossistema moderno do JavaScript (**TypeScript, Next.js, React e Prisma**).
-- 🚀 Tenho experiência prática com **metodologias ágeis**, resolução colaborativa de problemas e trabalho em equipe.
-- 💡 Busco sempre evoluir minhas habilidades, desde a modelagem do banco de dados (MySQL) até a prototipação e entrega final da interface.
+- 🎨 **Assessor de Interface Visual e Experiência de Usuário (UI/UX)** na **Code Empresa Jr.**
+- 💻 Foco em desenvolvimento **Full-Stack** com **TypeScript, Next.js, React, Tailwind CSS e Prisma ORM**.
+- 🚀 Experiência prática como *Trainee* e membro em **metodologias ágeis (Agile)**, versionamento em equipe com Git/GitHub, Docker e resolução colaborativa de problemas.
+- 💡 Do protótipo no **Figma** e modelagem de dados no **MySQL** até o deploy da aplicação.
 
 ---
 
 ### 🛠️ Linguagens, Tecnologias e Ferramentas
 
-**Frontend & Backend:**
-<br/>
-<img align="left" alt="TypeScript" title="TypeScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Next.js" title="Next.js" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="React" title="React" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Prisma" title="Prisma ORM" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-<img align="left" alt="PHP" title="PHP" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="HTML" title="HTML" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<br/>
-<br/>
+**💻 Front-end & Back-end:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,js,prisma,php,mysql,cpp,html,css&perline=11" alt="Tech Stack" />
+  </a>
+</p>
 
-**Design & Infraestrutura:**
-<br/>
-<img align="left" alt="Figma" title="Figma" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Canva" title="Canva" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img align="left" alt="Git" title="Git" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Docker" title="Docker" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Visual Studio Code" title="VS Code" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<br/>
-<br/>
+**🎨 UI/UX Design & DevOps:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,git,github,docker,vscode&perline=10" alt="Design & DevOps Tools" />
+  </a>
+</p>
 
 ---
 
 ### 🐍 Minhas Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xNyctar/xNyctar/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xNyctar/xNyctar/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xNyctar/xNyctar/output/snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xNyctar/xNyctar/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xNyctar/xNyctar/output/snake.svg">
+    <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xNyctar/xNyctar/output/snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=120&section=footer" />
+</div>
